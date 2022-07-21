@@ -1,7 +1,7 @@
 import { Container } from './styles'
 
 const ButtonContact = () => (
-    <Container>Contact Us</Container>
+    <Container>Entre na plataforma!</Container>
 )
 
 export default ButtonContact

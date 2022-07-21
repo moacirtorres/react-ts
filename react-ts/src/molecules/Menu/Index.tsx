@@ -3,10 +3,10 @@ import { MenuList, ItemList } from './styles'
 const Menu = () => {
     return <MenuList>
         <ItemList><a href="#">Home</a></ItemList>
-        <ItemList><a href="#">About us</a></ItemList>
-        <ItemList><a href="#">How it works</a></ItemList>
-        <ItemList><a href="#">Services</a></ItemList>
-        <ItemList><a href="#">Contact</a></ItemList>
+        <ItemList><a href="#">Sobre nós</a></ItemList>
+        <ItemList><a href="#">Como funciona?</a></ItemList>
+        <ItemList><a href="#">Serviços</a></ItemList>
+        <ItemList><a href="#">Contato</a></ItemList>
     </MenuList>
 }
 

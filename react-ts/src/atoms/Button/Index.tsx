@@ -1,7 +1,7 @@
 import { ButtonHeader } from '../Button/style'
 
 const Button = () => {
-    return <ButtonHeader>Enquiry</ButtonHeader>
+    return <ButtonHeader>Entrar</ButtonHeader>
 }
 
 export default Button

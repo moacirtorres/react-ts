@@ -26,6 +26,8 @@ export const Container = styled.div`
 
     img {
         padding-left: 5px;
+        display: inline !important;
+        margin-top: 0.5rem;
     }
 
     i {
